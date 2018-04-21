@@ -1,0 +1,50 @@
+body {
+    background-image: url("../images/starwars-theme.jpg");
+    background-size: cover;
+}
+
+p {
+    color: white;
+    font-size: 18px;
+    font-family: 'Gugi', cursive;
+    text-align: center;
+}
+
+footer {
+    height: 50px;
+    width: 100%;
+}
+
+.top-title {
+    position: absolute;
+    width: 100%;
+}
+
+.game-left {
+    float: left;
+    border-style: dotted;
+    height: 400px;
+    width: 50%;
+}
+
+.game-right {
+    float: left;
+    border-style: dotted;
+    height: 400px;
+    width: 50%;
+}
+
+#title-theme {
+    position: relative;
+    width: 100%;
+    height: 200px;
+    margin: auto;
+}
+
+#hangman {
+    font-family: 'Play', sans-serif;
+    font-size: 60px;
+    color: gold;
+    width: 100%;
+    text-align: center;
+}
